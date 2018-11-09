@@ -1,0 +1,8 @@
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\bin\Release\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\bin\Release\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\bin\Release\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Release\WindowsFormsApplication1.Sun.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Release\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Release\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Release\Solarni sistem.pdb

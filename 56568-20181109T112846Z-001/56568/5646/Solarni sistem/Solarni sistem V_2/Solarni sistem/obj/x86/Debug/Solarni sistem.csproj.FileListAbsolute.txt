@@ -1,0 +1,235 @@
+C:\Users\fpenusilski17\Desktop\Solarni sistem\C#\Solarni sistem\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\Solarni sistem\C#\Solarni sistem\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem\C#\Solarni sistem\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\Filip\Desktop\Programski Proekti\C#\Solarni sistem\Solarni sistem\C#\Solarni sistem\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Sun.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Sun.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\programski kodovi\C#\Solarni sistem\Solarni sistem V_1\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\programski kodovi\C#\Solarni sistem\Solarni sistem V_1\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\programski kodovi\C#\Solarni sistem\Solarni sistem V_1\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\programski kodovi\C#\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\programski kodovi\C#\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\programski kodovi\C#\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem-20180511T101528Z-001\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\Solarni sistem-20180511T101528Z-001\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem-20180511T101528Z-001\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem-20180511T101528Z-001\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\Solarni sistem-20180511T101528Z-001\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem-20180511T101528Z-001\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\Solarni sistem-20180511T101528Z-001\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem-20180511T101528Z-001\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem-20180511T101528Z-001\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\Filip\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\Boris\Desktop\Filip\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\fpenusilski17\Desktop\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\Boris\Desktop\Filipov solarni sistem\Filipov solarni sistem-20180907T101247Z-001\Filipov solarni sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\JEff-20180925T073304Z-001\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\AAAAAAAAA\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\Ratatui-20181002T081330Z-001\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\ratatmuji-20181005T101942Z-001\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\ratatmuji-20181005T101942Z-001\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\ratatmuji-20181005T101942Z-001\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\ratatmuji-20181005T101942Z-001\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\ratatmuji-20181005T101942Z-001\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\ratatmuji-20181005T101942Z-001\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\fpenusilski17\Desktop\ratatmuji-20181005T101942Z-001\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\ratatmuji-20181005T101942Z-001\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\Boris\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boris\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boris\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boris\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Sun.cs
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\ads35-20181009T082011Z-001\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Sun.cs
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\06-20181012T103312Z-001\06\ads35\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Sun.cs
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\ratatmuji\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Sun.cs
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Sun.cs
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\8-20181019T103249Z-001\8\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Sun.cs
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\Ratatui\JEff\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Sun.cs
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\Boris\Desktop\Solarni Sistem\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Sun.cs
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\5646-20181030T095001Z-001\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe.config
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.pdb
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csprojResolveAssemblyReference.cache
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\obj\x86\Debug\Solarni sistem.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Sun.cs
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.exe
+C:\Users\fpenusilski17\Desktop\56568-20181109T112846Z-001\56568\5646\Solarni sistem\Solarni sistem V_2\Solarni sistem\bin\Debug\Solarni sistem.pdb
